@@ -1,16 +1,16 @@
-# flutter_application_praktikum
+# praktikum_apps
 
-A new Flutter project.
+A Flutter project learning.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screensshot flutter_app](lib/images/Screenshot%20(17).png)
+![Screensshot flutter_app](lib/images/Screenshot%20(18).png)
+![Screensshot flutter_app](lib/images/Screenshot%20(19).png)
+![Screensshot flutter_app](lib/images/Screenshot%20(20).png)
+![Screensshot flutter_app](lib/images/Screenshot%20(21).png)
+![Screensshot flutter_app](lib/images/Screenshot%20(22).png)
+![Screensshot flutter_app](lib/images/Screenshot%20(23).png)
+![Screensshot flutter_app](lib/images/Screenshot%20(24).png)
+![Screensshot flutter_app](lib/images/Screenshot%20(25).png)
+![Screensshot flutter_app](lib/images/Screenshot%20(26).png)
+![Screensshot flutter_app](lib/images/Screenshot%20(27).png)
+![Screensshot flutter_app](lib/images/Screenshot%20(28).png)
